@@ -1,0 +1,18 @@
+# settings
+
+(GimpGegl-gegl-bloom-config "2022-06-11 21:22:03"
+    (time 1654971723)
+    (threshold 46.219999999999999)
+    (softness 85.469999999999999)
+    (radius 16.800000000000001)
+    (strength 19.190000000000001)
+    (limit-exposure yes))
+(GimpGegl-gegl-bloom-config "BoomRetroTux"
+    (time 0)
+    (threshold 46.219999999999999)
+    (softness 85.469999999999999)
+    (radius 16.800000000000001)
+    (strength 19.190000000000001)
+    (limit-exposure yes))
+
+# end of settings
